@@ -1,4 +1,15 @@
 # CHI-PG
-CHI-PG: A fast prototype generation algorithm for Big Data classification problems
+*CHI-PG: A fast prototype generation algorithm for Big Data classification problems*.
 
-(The source code will be released as soon as the article has been accepted by the journal)
+See header_example.header and data_example.data to get details about input data format. For further information visit KEEL's webpage (http://sci2s.ugr.es/keel/datasets.php).
+
+**Please cite as**: M. Elkano, M. Galar, J. Sanz, H. Bustince, "CHI-PG: A fast prototype generation algorithm for Big Data classification problems", Neurocomputing, 2018, DOI: https://doi.org/10.1016/j.neucom.2018.01.056
+
+**BibTeX format**:
+@article{Elkano2018,
+title = "CHI-PG: A fast prototype generation algorithm for Big Data classification problems",
+journal = "Neurocomputing",
+year = "2018",
+doi = "https://doi.org/10.1016/j.neucom.2018.01.056",
+author = "Mikel Elkano and Mikel Galar and Jose Sanz and Humberto Bustince",
+}
