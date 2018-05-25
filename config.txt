@@ -1,0 +1,19 @@
+****************************************
+* CONFIGURATION FILE FOR CHI-PG        *
+*                                      *
+* Lines beginning with "*" are ignored *
+****************************************
+
+*******************************************************
+* Available aggregations:                             *
+*    - arithmetic_mean: AM in the paper               *
+*    - arithmetic_mean_single_class: SAM in the paper *
+*    - none: no aggregation                           *
+*******************************************************
+
+num_linguistic_labels = 4
+prototype_min_num_examples = 3
+aggregation = arithmetic_mean_single_class
+hadoop_num_mappers = 32
+hadoop_num_reducers = 8
+hadoop_max_mins_no_update = 4320
